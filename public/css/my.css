@@ -1,0 +1,62 @@
+* {margin: 0;
+   padding: 0;}
+
+html,body {background-color: #dfdfdf;
+	        height: 100%;}
+#wrapper {width: 900px;
+		  margin: 10px auto;
+		  padding: 10px;
+		  overflow: hidden;
+		  box-shadow: 1px 1px 2px #4e4e4e;
+		  min-height: 90%;
+		  background-color: #fff;
+		  } 
+		  
+h1
+{
+	color:white;
+}
+
+.message
+{
+	min-height: 50px;
+	max-width:50%;
+	background-color: white;
+	color:black;
+	padding-top: 10px;
+}
+
+.comment1
+{
+	background-color: white;
+	width:50%;
+	border: 1px solid black;
+	border-radius: 5px;
+	padding:10px;
+}
+
+.child1
+{
+	background-color: white;
+	width:50%;
+	border: 1px solid black;
+	border-radius: 5px;
+	padding:10px;
+}
+
+.btn
+{
+	margin-top: 5px;
+
+}
+	a
+	{
+		color:white;
+	}
+	a:hover
+	{
+		color:black;
+		text-decoration: none;
+	}
+
+ 
